@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: rgb(43, 47, 56);
+}
+
+body,
+a {
+    color: rgb(214, 208, 208);
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
