@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(41, 53, 54);
+    font-family: Verdana, sans-serif;
+}
+
+body,
+a {
+    color: rgb(241, 241, 241);
+}
+
+h1 {
+    text-align: center;
+}
+
+#recipe-list {
+    font-size: 18px;
+}
+
+.cooked {
+    width: auto;
+    height: 400px;
+}
